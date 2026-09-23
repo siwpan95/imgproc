@@ -1,5 +1,7 @@
 # imgproc 批量图像加工
 
+> 仓库：<https://gitee.com/siwpan/imgproc> ｜ 许可：MIT（见 [LICENSE](LICENSE)）
+
 Tkinter  GUI 工具，对文件夹内图像批量执行加工操作，**绝不覆盖原图**，结果输出到 `<输入文件夹>/imgproc_out/`。
 
 ## 功能
