@@ -1,3 +1,8 @@
+> 📦 **已归档（Archived — 仅作参考）**
+> 本仓库已收入归档仓 **media-prototypes**（代码与完整 git 历史一并迁入，原仓冻结不再开发）。
+> 历史分支见归档仓的 `archive/imgproc` 分支；活跃维护请前往 **media-prototypes**。
+> _This repo is archived into media-prototypes; development continues there. Do not commit here._
+
 # imgproc 批量图像加工
 
 > 仓库：<https://gitee.com/siwpan/imgproc> ｜ 许可：MIT（见 [LICENSE](LICENSE)）
